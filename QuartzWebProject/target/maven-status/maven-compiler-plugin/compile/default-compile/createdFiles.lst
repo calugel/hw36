@@ -1,0 +1,6 @@
+ge\ufc\jobs\TriangleJob.class
+ge\ufc\conf\User.class
+ge\ufc\conf\ConfManager.class
+ge\ufc\figures\Triangle.class
+ge\ufc\figures\Triangles.class
+ge\ufc\servlets\JobServlet.class

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triangles>
+    <triangle>
+        <a>3.0</a>
+        <b>4.0</b>
+        <c>5.0</c>
+    </triangle>
+    <triangle>
+        <a>7</a>
+        <b>5</b>
+        <c>4</c>
+    </triangle>
+    <triangle>
+        <a>6</a>
+        <b>8</b>
+        <c>10</c>
+    </triangle>
+</triangles>
