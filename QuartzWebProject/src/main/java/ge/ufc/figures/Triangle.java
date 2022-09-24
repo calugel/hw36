@@ -4,7 +4,7 @@ package ge.ufc.figures;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+@XmlRootElement(name = "triangle")
 public class Triangle {
 
     private double a;
