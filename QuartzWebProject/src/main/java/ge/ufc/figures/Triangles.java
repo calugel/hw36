@@ -5,7 +5,7 @@ import jakarta.xml.bind.annotation.XmlRootElement;
 
 import java.util.List;
 
-@XmlRootElement(name = "triangle")
+@XmlRootElement(name = "triangles")
 public class Triangles {
 
     private List<Triangle> triangles;
